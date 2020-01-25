@@ -1,1 +1,1 @@
-<?php echo "Make your own space today"; ?>
+<?php echo "<h1>Make your own space today</h1>";  ?>
